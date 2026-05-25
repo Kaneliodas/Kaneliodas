@@ -53,8 +53,6 @@ Meu interesse vai além de apenas escrever código — busco entender **arquitet
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaneliodas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kaneliodas&theme=tokyonight&hide_border=true)
 
 </div>
