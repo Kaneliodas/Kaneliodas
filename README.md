@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou João V. Sousa
 
-> Desenvolvedor back-end em constante evolução, iniciando minha jornada na programação aos 13 anos.
+> Desenvolvedor Full-stack em constante evolução, iniciando minha jornada na programação aos 13 anos.
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Sou um desenvolvedor com foco em **back-end**, apaixonado por construir aplicações estruturadas e funcionais.
+Sou um desenvolvedor com foco em **Full-stack**, apaixonado por construir aplicações estruturadas e funcionais.
 Utilizo o **Zorin OS** como ambiente principal de desenvolvimento, o que me proporcionou uma base sólida em sistemas Linux e código aberto.
 
 Meu interesse vai além de apenas escrever código — busco entender **arquitetura de sistemas**, **organização de código** e aplicar **boas práticas** em cada projeto.
